@@ -71,6 +71,7 @@ def ejercicio1():
     lista = ["P", "t"]
     # TODO
     assert "".join(lista) == "Python"
+    
 
 def ejercicio2():
     lista = [1, 4, 2, 5, 4, 3, 4, 7, 5, 8, 9]
